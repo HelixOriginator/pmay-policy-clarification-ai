@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.com/pmay-policy-clarification-ai/sitemap.xml
